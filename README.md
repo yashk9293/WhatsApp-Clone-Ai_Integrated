@@ -1,17 +1,23 @@
-<a href="https://youtu.be/sQ1zvdS8eU8">
-  <img alt="AI-powered WhatsApp." src="https://i.ibb.co/YcWpZ5F/Screenshot-24.png">
-  <h1 align="center">AI Powered WhatsApp Clone</h1>
-</a>
+<h1 align="center">WhatsApp Clone - AI Integrated</h1>
 
-<p align="center">
- Make WhatsApp a little bit more exiciting by integratin GPT and DALL-E-3 
+<p>
+ Make WhatsApp a little bit more exiciting by integrating GPT API and DALL-E-3 Model.
 </p>
 
-<p align="center">
+<p>
   <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
 </p>
-<br/>
+
+
+## GPT & DALL-E3
+![Screenshot 2024-07-22 000517](https://github.com/user-attachments/assets/0060f934-f4b5-4446-8101-0c52833cf500)
+
+![Screenshot 2024-07-22 000551](https://github.com/user-attachments/assets/97533b69-3ec5-4760-bb05-fc779ee6eb30)
+
+![Screenshot 2024-07-22 000631](https://github.com/user-attachments/assets/a7888d3c-be01-456f-a0fd-aa0ad6781db9)
+
+
 
 ## Tech Stack
 
@@ -44,6 +50,13 @@ You can deploy this app by setting up the following services and adding their en
 8. To enable video calling, create a [ZEGOCLOUD](https://www.zegocloud.com) account, create a project and select voice && video calls. Paste `ZEGO_APP_ID` and `ZEGO_SERVER_SECRET` to .env.local and save
 9. Now it should be up and running. Check out the [TUTORIAL](https://youtu.be/sQ1zvdS8eU8) for a complete walk-through.
 
-## Thanks for your support
 
--   Like && Subscribe for more projects like this
+
+
+## Contact
+If you have any questions or feedback, feel free to reach out:
+- LinkedIn : https://www.linkedin.com/in/yashk9293/
+- GitHub : https://github.com/yashk9293
+
+<h3>💖Like my work?</h3>
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
