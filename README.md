@@ -2,7 +2,7 @@
 
 This project is a cutting-edge integration of WhatsApp with AI features, built using Next.js, Tailwind CSS, TypeScript, and Convex. The application leverages the power of GPT and DALL-E 3 to provide AI-driven interactions directly within the WhatsApp platform.
 
-<h2>Live link 🌍📡 - [  https://moviestan-one.vercel.app/  ]</h2>
+<h2>Live link 🌍📡 - [  https://whats-app-clone-ai-integrated.vercel.app/  ]</h2>
 
 
 ### Home Page
